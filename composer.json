@@ -1,0 +1,11 @@
+{
+    "require": {
+        "mailjet/mailjet-apiv3-php": "^1.6"
+    },
+    "config": {
+        "platform-check": false
+    },
+    "platform": {
+        "php": "^5.4"
+    }
+}
